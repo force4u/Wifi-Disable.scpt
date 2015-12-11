@@ -1,0 +1,2 @@
+# Wifi-Disable.scpt
+WifiをオフにするAppleScript
